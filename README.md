@@ -46,6 +46,6 @@ This is a personal project for educational and portfolio purposes. However, sugg
 
 If you have questions or want to connect:
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/rajveer-sharma933/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/rajveer-sharma933/)
 - Email: rajveersharma1107@gmail.com
 
