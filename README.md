@@ -25,9 +25,6 @@ If you're into cutting-edge UI/UX and want to understand how animation and respo
 - **GSAP (GreenSock Animation Platform)**
 
 
-## 📸 Preview
-
-![Project Preview](https://redefine-gaming-rajveer.netlify.app/)
 
 ## 🧠 Learning Goals
 
@@ -39,7 +36,7 @@ If you're into cutting-edge UI/UX and want to understand how animation and respo
 ## 🔗 Live Demo & Source Code
 
 - 🌐 [Live Site](https://redefine-gaming-rajveer.netlify.app/)
-- 💻 [GitHub Repo](https://github.com/your-repo-link)
+- 💻 [GitHub Repo](https://github.com/rajveer-09/redefine-gaming-rajveer/tree/main)
 
 ## 🤝 Contributing
 
