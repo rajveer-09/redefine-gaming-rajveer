@@ -1,4 +1,4 @@
-# 🌀 Zentry-Inspired Animated Website
+# 🌀 Zentry-Gaming Animated Website
 
 Welcome to my animated website project inspired by **Zentry**, built as part of an in-depth tutorial by JavaScript Mastery. This project was a hands-on dive into advanced front-end development, focused on creating a luxurious, visually rich, and highly interactive user experience.
 
